@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Davi Felipe 👋</h1>
+<h1 align="center">Olá, meu nome é Davi Felipe.</h1>
 <p align="center">
   Graduando em Análise e Desenvolvimento de Sistemas. Abaixo você poderá ver as tecnologias mais utilizadas por mim:
 </p>
