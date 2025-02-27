@@ -12,5 +12,6 @@
 ---
 
 <p align="center">
-  Meu foco é análise de dados então grande parte dos meus estudos estão em Notebooks do Jupyter, onde você pode ver a utilização de linguagens SQL e Python, juntamente com bibliotecas de Python sejam elas Pandas ou Numpy e para estudo mais aprofundado de dados uso o SQL Server.
+  Meu foco é análise de dados então grande parte dos meus estudos estão em Notebooks do Jupyter, onde você pode ver a utilização de linguagens SQL e Python, juntamente com bibliotecas de Python sejam elas Pandas ou Numpy e para estudo mais aprofundado de dados uso o SQL Server.   Dê uma olhada nos repositórios abaixo caso deseje-se se aprofundar:
 </p>
+
