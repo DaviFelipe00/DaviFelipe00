@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, meu nome é Davi Felipe!</h1>
+<h1 align="center">Olá, meu nome é Davi Felipe!</h1>
 <p align="center">
-  🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+  Graduando em Análise e Desenvolvimento de Sistemas.
   <br>
-  🚀 Abaixo você pode ver as tecnologias que mais utilizo no meu trabalho e estudo:
+  Abaixo você pode ver as tecnologias que mais utilizo no meu trabalho e estudo:
 </p>
 
 ---
@@ -14,16 +14,16 @@
 ---
 
 <p align="center">
-  💻 Meu foco principal é <strong>análise de dados</strong>, e grande parte dos meus estudos são realizados em Notebooks do <strong>Jupyter</strong>. 
+  Meu foco principal é <strong>análise de dados</strong>, e grande parte dos meus estudos são realizados em Notebooks do <strong>Jupyter</strong>. 
   <br> 
-  🔍 Utilizo linguagens como <strong>SQL</strong> e <strong>Python</strong>, com bibliotecas como <strong>Pandas</strong> e <strong>NumPy</strong> para análise. Além disso, para um estudo mais aprofundado, costumo utilizar o <strong>SQL Server</strong>.
+  Utilizo linguagens como <strong>SQL</strong> e <strong>Python</strong>, com bibliotecas como <strong>Pandas</strong> e <strong>NumPy</strong> para análise. Além disso, para um estudo mais aprofundado, costumo utilizar o <strong>SQL Server</strong>.
   <br><br>
-  📚 Se você estiver interessado, fique à vontade para explorar os repositórios abaixo! 👇
+  Se você estiver interessado, fique à vontade para explorar os repositórios abaixo!
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tecnologias que eu utilizo:</h3>
+<h3 align="center">Tecnologias que eu utilizo:</h3>
 
 <div align="center">
   <!-- Banco de Dados -->
@@ -45,12 +45,12 @@
 
 ---
 
+<h3 align="center">Me encontre em minhas redes sociais:</h3>
+
 <div align="center">
   <a href="https://github.com/davifelipe00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DaviFelipe00-blue?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-DaviFelipe00-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" />
   </a>
-  <a href="https://www.linkedin.com/in/davifelipe00" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DaviFelipe-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:davifelipe00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-davifelipe00%40gmail.com-blue?
+  <a href="https://www.linkedin.com/in/davi-felipe-9847881b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-DaviFelipe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
+</div>
