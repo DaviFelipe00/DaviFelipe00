@@ -14,12 +14,17 @@
 ---
 
 <p align="center">
-  Sou <strong>analista de dados</strong> e <strong>desenvolvedor fullstack</strong>. Grande parte dos meus estudos e projetos são realizados em Notebooks do <strong>Jupyter</strong>, com foco em análise de dados. 
-  <br> 
-  Utilizo linguagens como <strong>SQL</strong> e <strong>Python</strong>, com bibliotecas como <strong>Pandas</strong> e <strong>NumPy</strong> para análise. Além disso, para um estudo mais aprofundado, costumo utilizar o <strong>SQL Server</strong>.
+  Sou <strong>analista de dados</strong> e <strong>desenvolvedor fullstack</strong>, com experiência em projetos que integram backend, frontend e análise de dados. 
+  <br>
+  No desenvolvimento, utilizo ferramentas como <strong>Django</strong>, <strong>React Native</strong> e <strong>Node.js</strong>, construindo aplicações completas e escaláveis.
+  <br>
+  Já na área de dados, trabalho com <strong>SQL</strong> e <strong>Python</strong>, aplicando bibliotecas como <strong>Pandas</strong> e <strong>NumPy</strong> em ambientes como o <strong>Jupyter Notebook</strong> para realizar análises e extração de insights. 
+  <br>
+  Também utilizo bancos de dados como <strong>SQL Server</strong>, <strong>PostgreSQL</strong> e <strong>MySQL</strong> para armazenar, consultar e manipular dados de forma eficiente.
   <br><br>
   Se você estiver interessado, fique à vontade para explorar os repositórios abaixo!
 </p>
+
 
 ---
 
