@@ -45,12 +45,7 @@
 
 ---
 
-<h3 align="center">Me encontre em minhas redes sociais:</h3>
-
-<div align="center">
-  <a href="https://github.com/davifelipe00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DaviFelipe00-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" />
-  </a>
+<h3 align="center">Entre em contato:</h3>
   <a href="https://www.linkedin.com/in/davi-felipe-9847881b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DaviFelipe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
   </a>
