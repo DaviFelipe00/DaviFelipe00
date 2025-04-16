@@ -45,7 +45,8 @@
 
 ---
 
-<h3 align="center">Entre em contato:</h3>
+<div align="center">
+  <h3>Entre em contato:</h3>
   <a href="https://www.linkedin.com/in/davi-felipe-9847881b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DaviFelipe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
   </a>
