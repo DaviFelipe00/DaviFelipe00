@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  Meu foco principal é <strong>análise de dados</strong>, e grande parte dos meus estudos são realizados em Notebooks do <strong>Jupyter</strong>. 
+  Sou <strong>analista de dados</strong> e <strong>desenvolvedor fullstack</strong>. Grande parte dos meus estudos e projetos são realizados em Notebooks do <strong>Jupyter</strong>, com foco em análise de dados. 
   <br> 
   Utilizo linguagens como <strong>SQL</strong> e <strong>Python</strong>, com bibliotecas como <strong>Pandas</strong> e <strong>NumPy</strong> para análise. Além disso, para um estudo mais aprofundado, costumo utilizar o <strong>SQL Server</strong>.
   <br><br>
@@ -53,4 +53,13 @@
   </a>
   <a href="https://www.linkedin.com/in/davi-felipe-9847881b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DaviFelipe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">Commits no GitHub:</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davifelipe00&theme=radical&border_radius=5&currStreakLabel=FF9900&sideLabels=FFF" alt="GitHub Commit Streak" />
 </div>
