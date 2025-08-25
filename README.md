@@ -53,11 +53,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-DaviFelipe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
   </a>
 </div>
-
----
-
-<h3 align="center">Commits no GitHub:</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davifelipe00&theme=radical&border_radius=5&currStreakLabel=FF9900&sideLabels=FFF" alt="GitHub Commit Streak" />
-</div>
