@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor Fullstack Ts.</h1>
+<h1 align="center">Desenvolvedor Fullstack</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifelipe00&layout=compact&theme=radical&langs_count=10" alt="Linguagens mais usadas" />
 </div>
