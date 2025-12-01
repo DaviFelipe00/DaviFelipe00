@@ -1,7 +1,4 @@
 <h1 align="center">Desenvolvedor Fullstack</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifelipe00&layout=compact&theme=radical&langs_count=10" alt="Linguagens mais usadas" />
-</div>
 
 <p align="center">
   Sou <strong>Desenvolvedor Fullstack</strong> especializado no ecossistema <strong>TypeScript</strong>. Meu foco é a arquitetura e construção de aplicações web de alta performance, utilizando TypeScript de ponta a ponta (end-to-end).
