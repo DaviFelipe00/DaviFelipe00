@@ -1,15 +1,17 @@
-<h1 align="center">Desenvolvedor Fullstack</h1>
+<h1 align="center">Desenvolvedor Backend Node.js</h1>
 
 <p align="center">
-  Sou <strong>Desenvolvedor Fullstack</strong> especializado no ecossistema <strong>TypeScript</strong>. Meu foco é a arquitetura e construção de aplicações web de alta performance, utilizando TypeScript de ponta a ponta (end-to-end).
+  Sou <strong>Engenheiro de Software Backend</strong> especializado no ecossistema <strong>Node.js</strong> e <strong>TypeScript</strong>. Meu foco é o design e a implementação de sistemas distribuídos de alta disponibilidade, priorizando performance, segurança e manutenibilidade.
   <br><br>
-  <strong>Frontend:</strong> Desenvolvo interfaces de usuário reativas e otimizadas (SSR/SSG) com <strong>React</strong> e <strong>Next.js</strong>.
+  <strong>Arquitetura & Design:</strong> Experiência na construção de APIs robustas (REST/GraphQL) e arquiteturas orientadas a eventos, aplicando princípios de <strong>Clean Architecture</strong>, <strong>SOLID</strong> e <strong>Design Patterns</strong>.
   <br><br>
-  <strong>Backend:</strong> Estruturo APIs RESTful e microsserviços eficientes e escaláveis, utilizando <strong>Node.js</strong> e seus principais frameworks (como Express ou NestJS).
+  <strong>Core Backend:</strong> Desenvolvimento de serviços escaláveis utilizando <strong>NestJS</strong> e <strong>Fastify/Express</strong>, com foco em concorrência, streams e otimização de recursos do Node.js runtime.
   <br><br>
-  <strong>Database:</strong> Integro essas aplicações com bancos de dados relacionais como <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>SQL Server</strong>, gerenciando a modelagem de dados e a otimização de consultas.
+  <strong>Persistência & Cache:</strong> Modelagem de dados avançada em <strong>PostgreSQL</strong> e <strong>MySQL</strong>, além de estratégias de caching e mensageria com <strong>Redis</strong> e <strong>RabbitMQ/Kafka</strong>.
   <br><br>
-  Fique à vontade para explorar meus repositórios!
+  <strong>DevOps & Qualidade:</strong> Implementação de testes automatizados (Jest/Vitest), containers com <strong>Docker</strong> e pipelines de CI/CD para entregas contínuas e seguras.
+  <br><br>
+  Fique à vontade para explorar meus repositórios e contribuições!
 </p>
 
 <h3 align="center">Tecnologias de Desenvolvimento</h3>
