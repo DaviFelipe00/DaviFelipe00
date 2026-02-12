@@ -1,35 +1,35 @@
-# 👨‍💻 Backend Developer | C# & .NET
+# Desenvolvedor Backend | C# & .NET
 
-Backend developer specialized in **C# and .NET**, focused on building scalable, secure and maintainable systems for enterprise environments.
+Desenvolvedor backend especializado em **C# e .NET**, com foco na construção de sistemas escaláveis, seguros e preparados para ambientes corporativos.
 
-My approach prioritizes clean architecture, performance optimization and long-term sustainability through solid engineering principles.
+Minha abordagem prioriza arquitetura limpa, performance e manutenibilidade, aplicando princípios sólidos de engenharia de software.
 
 ---
 
-## 🚀 Technical Expertise
+## Especialidades Técnicas
 
-| Area | Technologies & Concepts |
+| Área | Tecnologias e Conceitos |
 | :--- | :--- |
 | **Core Backend** | C#, .NET 8+, ASP.NET Core, Web API, Minimal APIs |
-| **Architecture** | Clean Architecture, DDD, SOLID, CQRS, Design Patterns |
-| **Data & Persistence** | Entity Framework Core, Dapper, SQL Server, PostgreSQL |
-| **Messaging** | RabbitMQ, Event-Driven Architecture |
-| **Infrastructure** | Docker, Docker Compose, Linux VPS, CI/CD (GitHub Actions) |
-| **Testing** | xUnit, FluentAssertions, Moq, Integration Testing |
+| **Arquitetura** | Clean Architecture, DDD, SOLID, CQRS, Design Patterns |
+| **Dados & Persistência** | Entity Framework Core, Dapper, SQL Server, PostgreSQL |
+| **Mensageria** | RabbitMQ, Arquitetura Orientada a Eventos |
+| **Infraestrutura** | Docker, Docker Compose, VPS Linux, CI/CD (GitHub Actions) |
+| **Testes** | xUnit, FluentAssertions, Moq, Testes de Integração |
 
 ---
 
-## 🧠 Core Competencies
+## Competências
 
-- **API Design:** Development of well-structured RESTful APIs with Swagger/OpenAPI documentation.
-- **System Integration:** API-to-API integrations between CRM, ERP and third-party platforms.
-- **Scalable Architecture:** Clear separation of concerns (Domain, Application, Infrastructure, API layers).
-- **Database Optimization:** Efficient relational modeling and performance tuning.
-- **Security:** JWT authentication, role-based authorization and best security practices.
+- **Desenvolvimento de APIs:** Criação de APIs RESTful bem estruturadas com documentação via Swagger/OpenAPI.
+- **Integração entre Sistemas:** Integrações API-to-API (CRM, ERP e sistemas terceiros).
+- **Arquitetura Escalável:** Separação clara de camadas (Domain, Application, Infrastructure, API).
+- **Banco de Dados:** Modelagem relacional eficiente e otimização de queries.
+- **Segurança:** Autenticação JWT, controle de acesso baseado em roles e boas práticas de proteção de dados.
 
 ---
 
-## 🛠 Tech Stack
+## Stack Tecnológica
 
 <div>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -43,20 +43,20 @@ My approach prioritizes clean architecture, performance optimization and long-te
 
 ---
 
-## 🎯 Professional Focus
+## Foco Profissional
 
-- Enterprise backend systems  
-- High-reliability integrations  
-- Event-driven architectures  
-- Clean and maintainable codebases  
+- Sistemas corporativos backend  
+- Integrações de alta confiabilidade  
+- Arquiteturas orientadas a eventos  
+- Código limpo, organizado e sustentável  
 
 ---
 
-## 📫 Contact
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-felipe-9847881b5/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
 
-⭐ Feel free to explore my repositories and contributions.
+⭐ Fique à vontade para explorar meus repositórios e contribuições.
