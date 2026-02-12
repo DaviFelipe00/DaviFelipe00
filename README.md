@@ -54,9 +54,5 @@ Minha abordagem prioriza arquitetura limpa, performance e manutenibilidade, apli
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-felipe-9847881b5/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-barbosa-9847881b5/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-
----
-
-⭐ Fique à vontade para explorar meus repositórios e contribuições.
